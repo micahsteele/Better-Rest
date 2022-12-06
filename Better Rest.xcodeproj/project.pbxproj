@@ -11,6 +11,7 @@
 		C0B32E72293BE0140078965E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B32E71293BE0140078965E /* ContentView.swift */; };
 		C0B32E74293BE0160078965E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0B32E73293BE0160078965E /* Assets.xcassets */; };
 		C0B32E77293BE0160078965E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0B32E76293BE0160078965E /* Preview Assets.xcassets */; };
+		C0B32E7E293BF3F30078965E /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C0B32E7D293BF3F30078965E /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C0B32E71293BE0140078965E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C0B32E73293BE0160078965E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0B32E76293BE0160078965E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C0B32E7D293BF3F30078965E /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C0B32E6F293BE0140078965E /* Better_RestApp.swift */,
 				C0B32E71293BE0140078965E /* ContentView.swift */,
+				C0B32E7D293BF3F30078965E /* SleepCalculator.mlmodel */,
 				C0B32E73293BE0160078965E /* Assets.xcassets */,
 				C0B32E75293BE0160078965E /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				C0B32E72293BE0140078965E /* ContentView.swift in Sources */,
 				C0B32E70293BE0140078965E /* Better_RestApp.swift in Sources */,
+				C0B32E7E293BF3F30078965E /* SleepCalculator.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
